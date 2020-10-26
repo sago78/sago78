@@ -1,5 +1,15 @@
-### Hi there 👋
-
+<p align="center">
+  ### Hi there 👋
+</p>
+<p align="center">
+  I'm Julio Sánchez
+</p>
+<p align="center">
+  🌱 I’m currently learning SpringBoot
+</p>
+<p align="center">
+  🤔 I’m looking for help with OpenSource projects
+</p>
 <!--
 **sago78/sago78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
