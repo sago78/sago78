@@ -5,7 +5,7 @@
   I'm Julio Sánchez
 </p>
 <p align="center">
-  🌱 I’m currently learning SpringBoot
+  🌱 I enjoy woring with SpringBoot and PLSQL
 </p>
 <p align="center">
   🤔 I’m looking for help with OpenSource projects
